@@ -40,8 +40,8 @@ Some write up
 
 ## Education
 - **Bachelor of Engineering (Hons)**
-- Mechatronic Engineering (Major - Robotics and Intelligent Systems)
-- University of Sydney, Australia
+-> Mechatronic Engineering (Major - Robotics and Intelligent Systems)
+-> University of Sydney, Australia
 
 ## Contact
 - GitHub: [Your GitHub Profile]
